@@ -7,7 +7,7 @@
 * Implemented the Retrieval-Augmented Generation methodology, using Titan for embeddings and Claude Haiku as the Language Model.
 
   <p align="center">
-  <img src="/images/RAG_App.png" alt="RAG_App.png" width="500"/>
+  <img src="images/RAG_App.png" alt="RAG_App.png" width="500"/>
 </p>
 
 
