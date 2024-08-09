@@ -7,7 +7,7 @@
 * Implemented the Retrieval-Augmented Generation methodology, using Titan for embeddings and Claude Haiku as the Language Model.
 
   <p align="center">
-  <img src="https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/RAG_App.png" alt="RAG_App.png" width="500"/>
+  <img src="/images/RAG_App.png" alt="RAG_App.png" width="500"/>
 </p>
 
 
@@ -36,13 +36,13 @@
 ### Demo
 
 - First we initialize the app
-![](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_waiting.png)
+![](images/rag_app_waiting.png)
 
 - We ask the question
-![](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_question.png)
+![](images/rag_app_question.png)
 
 - We get the answer
-![](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_answer.png)
+![](images/rag_app_answer.png)
 
 ### Conclusions
 * Successful Implementation: Developed an effective chatbot application for clarifying Mexico City's traffic regulations, demonstrating a solid application of LangChain, AWS Bedrock, and OpenSearch.
