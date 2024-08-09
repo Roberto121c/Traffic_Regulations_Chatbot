@@ -36,13 +36,13 @@
 ### Demo
 
 - First we initialize the app
-![Imagenes](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_waiting.png)
+![](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_waiting.png)
 
 - We ask the question
-[Imagenes](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_question.png)
+![](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_question.png)
 
 - We get the answer
-![Imagenes](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_answer.png)
+![](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_answer.png)
 
 ### Conclusions
 * Successful Implementation: Developed an effective chatbot application for clarifying Mexico City's traffic regulations, demonstrating a solid application of LangChain, AWS Bedrock, and OpenSearch.
