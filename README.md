@@ -11,8 +11,6 @@
 </p>
 
 
-### Objectives:
-
 ### Part 1: Creating a Vector Database
 - Implemented AWS OpenSearch: Utilized the boto3 library to interact with the AWS OpenSearch service, establishing a secure and scalable vector database.
 - Why AWS OpenSearch? Selected for its efficient vector storage and retrieval capabilities, seamless integration with AWS services, and advanced security features—making it an optimal choice for this chatbot application.
