@@ -39,7 +39,7 @@
 ![Imagenes](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_waiting.png)
 
 - We ask the question
-![Imagenes](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_question.png)
+[Imagenes](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_question.png)
 
 - We get the answer
 ![Imagenes](https://github.com/Roberto121c/Traffic_Regulations_Chatbot/blob/main/images/rag_app_answer.png)
